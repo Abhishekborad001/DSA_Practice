@@ -19,10 +19,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0217-contains-duplicate](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0217-contains-duplicate) |
 | [0792-binary-search](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0792-binary-search) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0792-binary-search](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0792-binary-search) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
