@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0344-reverse-string) |
 ## Math
 |  |
@@ -30,8 +31,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
