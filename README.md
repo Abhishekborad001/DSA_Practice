@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0217-contains-duplicate) |
 | [0792-binary-search](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0792-binary-search) |
+| [1293-three-consecutive-odds](https://github.com/Abhishekborad001/DSA_Practice/tree/master/1293-three-consecutive-odds) |
 ## Binary Search
 |  |
 | ------- |
