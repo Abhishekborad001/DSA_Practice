@@ -3,7 +3,7 @@ class Solution(object):
         if x==1 or x==0:
             return x
         low = 0
-        high = x//2 +1
+        high = x//2
         while low<=high:
             mid = low+(high-low)//2
     
