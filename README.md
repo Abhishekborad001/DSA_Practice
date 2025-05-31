@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0278-first-bad-version](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0278-first-bad-version) |
 | [0792-binary-search](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0792-binary-search) |
 ## Hash Table
 |  |
@@ -80,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0074-search-a-2d-matrix) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
