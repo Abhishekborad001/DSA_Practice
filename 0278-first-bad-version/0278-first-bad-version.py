@@ -5,7 +5,7 @@
 
 class Solution(object):
     def firstBadVersion(self, n):
-        low = 0
+        low = 1
         high = n
         while low<=high:
             mid = low + (high-low)//2
