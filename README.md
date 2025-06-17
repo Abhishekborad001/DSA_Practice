@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0367-valid-perfect-square) |
 ## Array
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0367-valid-perfect-square) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -58,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
@@ -65,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
@@ -99,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0278-first-bad-version) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
