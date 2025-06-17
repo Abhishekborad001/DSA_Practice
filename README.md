@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0792-binary-search) |
 | [1293-three-consecutive-odds](https://github.com/Abhishekborad001/DSA_Practice/tree/master/1293-three-consecutive-odds) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0278-first-bad-version) |
+| [0349-intersection-of-two-arrays](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0367-valid-perfect-square) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0792-binary-search) |
@@ -63,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
@@ -71,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
