@@ -1,6 +1,6 @@
 class Solution(object):
     def missingNumber(self, nums):
-        st = set(nums)
-        for i in range(len(nums)+1):
-            if i not in st:
-                return i
+        n=len(nums)
+        exp_sum = n * (n+1)//2
+        act_sum = sum(nums)
+        return exp_sum - act_sum
