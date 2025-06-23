@@ -1,14 +1,19 @@
 class Solution(object):
     def majorityElement(self, nums):
-        n=len(nums)
-        freq = {}
+        #Moore’s Voting Algorithm
+        ele = nums[0]
+        cnt = 0
+
         for num in nums:
-            if num in freq:
-                freq[num]+=1
+            if num == ele:
+                cnt+=1
+            elif num != ele and cnt!=0 :
+                cnt-=1
             else:
-                freq[num]=1
-        
-        for key,value in freq.items():
-            if value> (n//2):
-                return key
-        
+                ele = num
+                cnt +=1
+        return ele
+
+
+
+
