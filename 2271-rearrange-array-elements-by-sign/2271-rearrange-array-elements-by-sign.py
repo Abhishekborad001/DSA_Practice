@@ -11,7 +11,5 @@ class Solution(object):
                 arr[odd+1]=num
                 odd +=2
         
-        for i in range(len(arr)):
-            nums[i]=arr[i]
-        return nums
+        return arr
 
