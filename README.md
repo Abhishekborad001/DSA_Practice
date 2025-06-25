@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0349-intersection-of-two-arrays) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Abhishekborad001/DSA_Practice/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0792-binary-search) |
 | [1293-three-consecutive-odds](https://github.com/Abhishekborad001/DSA_Practice/tree/master/1293-three-consecutive-odds) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Abhishekborad001/DSA_Practice/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Abhishekborad001/DSA_Practice/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
 | ------- |
@@ -133,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0560-subarray-sum-equals-k) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Abhishekborad001/DSA_Practice/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
