@@ -7,6 +7,11 @@ public:
         while(l<=r){
             int mid = l + (r-l)/2;
 
+            if(nums[l]<=nums[r]){
+                ans = min(ans,nums[l]);
+                break;
+            }
+
             //left part sorted
             if(nums[l]<=nums[mid]){
                 ans = min(ans,nums[l]) ;
