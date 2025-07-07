@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0349-intersection-of-two-arrays) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Abhishekborad001/DSA_Practice/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0485-max-consecutive-ones) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0540-single-element-in-a-sorted-array) |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0287-find-the-duplicate-number) |
 ## Prefix Sum
 |  |
 | ------- |
