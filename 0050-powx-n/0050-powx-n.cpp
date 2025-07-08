@@ -1,19 +1,22 @@
 class Solution {
-private:
-     double calpower(double x, long long n) {
-        if (n == 0) return 1.0;
-        
-        double half = calpower(x, n / 2);
-        if (n % 2 == 0) return half * half;
-        else return half * half * x;
-    }
 public:
     double myPow(double x, int n) {
         long long N = n;
-        if (N < 0) {
-            x = 1.0 / x;
-            N = -N;
+        double ans = 1.0;
+
+        if(N<0) N = -1 * N;
+
+        while(N>0){
+            if(N%2 == 1){
+                ans = ans*x;
+                N--;
+            }
+            else{
+                N /=2;
+                x = x*x;
+            }
         }
-        return calpower(x, N);
+        if(n<0) ans = (double)(1.0) / (double)(ans);
+        return ans;
     }
 };
