@@ -2,14 +2,14 @@ class Solution {
 public:
     int dp[101][101];
     int uniquePaths(int m, int n) {
-        
-        if (m == 1 || n == 1)
-        return 1;
+        int N = n+m-2;
+        int r = m-1;
+        double res=1;
 
-        if (dp[m][n]!=0) return dp[m][n];
-
-        dp[m][n] = uniquePaths(m - 1, n) + uniquePaths(m, n - 1);
-        return dp[m][n];
+        for(int i=1;i<=r;i++){
+            res = res * (N-r+i)/i;
+        }
+        return (int)res;
 
     }
 };
