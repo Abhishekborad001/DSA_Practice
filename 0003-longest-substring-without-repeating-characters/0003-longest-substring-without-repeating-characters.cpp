@@ -4,19 +4,20 @@ public:
         int n=s.size();
         if(n==0 || n==1) return n;
         int cnt=0;
-        vector<bool> visited(128,false);
 
-        int l=0,r=0;
-        while(r<n){
-            while(visited[s[r]] == true){
-                visited[s[l]] = false;
-                l++;
-            }
-            visited[s[r]] = true;
-            cnt = max(cnt,r-l+1);
-            r++;
+        //keep track of last index of each character
+        vector<int> lastindex(128,-1);
+
+        int start=0;
+
+        for(int end=0;end<n;end++){
+            start = max(start,lastindex[s[end]]+1);
+
+            cnt = max(cnt,end-start+1);
+
+            lastindex[s[end]] = end;
         }
-
+        
         return cnt;
     }
 };
