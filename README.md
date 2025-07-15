@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0344-reverse-string) |
+| [3396-valid-word](https://github.com/Abhishekborad001/DSA_Practice/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/Abhishekborad001/DSA_Practice/tree/master/3617-find-the-original-typed-string-i) |
 ## Math
 |  |
