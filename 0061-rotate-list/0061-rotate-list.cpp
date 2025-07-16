@@ -14,13 +14,16 @@ public:
         ListNode* slow = head;
         ListNode* fast = head;
         ListNode* last = head;
+        int len=1;
 
         if(!head || !head->next || k==0) return head;
         while(last->next != nullptr) {
             last = last->next;
+            len++;
         }
         last->next = head;
 
+        k = k%len;
         while(k--){
             fast = fast->next;
         }
