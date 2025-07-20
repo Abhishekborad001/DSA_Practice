@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0049-group-anagrams) |
+| [0131-palindrome-partitioning](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0344-reverse-string) |
 | [3396-valid-word](https://github.com/Abhishekborad001/DSA_Practice/tree/master/3396-valid-word) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0131-palindrome-partitioning) |
 ## Matrix
 |  |
 | ------- |
@@ -298,4 +300,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
