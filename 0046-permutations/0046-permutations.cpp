@@ -1,31 +1,24 @@
 class Solution {
 public:
 
-    void findPer(vector<int>&nums, vector<int>&ans, vector<vector<int>> &res, vector<int>&freq){
-
-        if(ans.size()==nums.size()){
-            res.push_back({ans});
+    void findPer(vector<int>& nums, int ind, vector<vector<int>> &ans){
+        if(ind == nums.size()){
+            ans.push_back({nums});
             return;
         }
 
-        for(int i=0; i<nums.size(); i++){
-            if(!freq[i]){
-                ans.push_back(nums[i]);
-                freq[i]=1;
-                findPer(nums, ans, res,freq);
-                freq[i]=0;
-                ans.pop_back();
+        for(int i=ind; i<nums.size();i++){
+            swap(nums[ind],nums[i]) ;
+            findPer(nums, ind+1,ans);
+            swap(nums[ind],nums[i]);
 
-            }
         }
     }
     vector<vector<int>> permute(vector<int>& nums) {
-        vector<int> ans;
-        vector<vector<int>> res;
-        vector<int>freq(nums.size(),0);
+        vector<vector<int>> ans;
 
-        findPer(nums, ans, res,freq);
+        findPer(nums, 0, ans);
 
-        return res;
+        return ans;
     }
 };
