@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/Abhishekborad001/DSA_Practice/tree/master/1293-three-consecutive-odds) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Abhishekborad001/DSA_Practice/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Abhishekborad001/DSA_Practice/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/Abhishekborad001/DSA_Practice/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1813-maximum-erasure-value](https://github.com/Abhishekborad001/DSA_Practice/tree/master/1813-maximum-erasure-value) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Abhishekborad001/DSA_Practice/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Abhishekborad001/DSA_Practice/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0560-subarray-sum-equals-k) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Abhishekborad001/DSA_Practice/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/Abhishekborad001/DSA_Practice/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1813-maximum-erasure-value](https://github.com/Abhishekborad001/DSA_Practice/tree/master/1813-maximum-erasure-value) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/Abhishekborad001/DSA_Practice/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/Abhishekborad001/DSA_Practice/tree/master/3227-find-missing-and-repeated-values) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0658-find-k-closest-elements](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0658-find-k-closest-elements) |
 | [0948-sort-an-array](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0948-sort-an-array) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/Abhishekborad001/DSA_Practice/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Divide and Conquer
 |  |
 | ------- |
