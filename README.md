@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0042-trapping-rain-water) |
+| [0225-implement-stack-using-queues](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
 |  |
@@ -352,4 +353,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/Abhishekborad001/DSA_Practice/tree/master/1014-k-closest-points-to-origin) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
