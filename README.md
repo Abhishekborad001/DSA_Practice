@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/Abhishekborad001/DSA_Practice/tree/master/1813-maximum-erasure-value) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Abhishekborad001/DSA_Practice/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Abhishekborad001/DSA_Practice/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/Abhishekborad001/DSA_Practice/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/Abhishekborad001/DSA_Practice/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/Abhishekborad001/DSA_Practice/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search
