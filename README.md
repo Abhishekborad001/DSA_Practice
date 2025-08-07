@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0658-find-k-closest-elements](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0658-find-k-closest-elements) |
+| [0811-number-of-subarrays-with-bounded-maximum](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0908-middle-of-the-linked-list](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0908-middle-of-the-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Abhishekborad001/DSA_Practice/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0658-find-k-closest-elements) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0792-binary-search) |
+| [0811-number-of-subarrays-with-bounded-maximum](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0948-sort-an-array](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Abhishekborad001/DSA_Practice/tree/master/1014-k-closest-points-to-origin) |
 | [1293-three-consecutive-odds](https://github.com/Abhishekborad001/DSA_Practice/tree/master/1293-three-consecutive-odds) |
