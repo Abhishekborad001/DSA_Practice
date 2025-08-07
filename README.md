@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Abhishekborad001/DSA_Practice/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/Abhishekborad001/DSA_Practice/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/Abhishekborad001/DSA_Practice/tree/master/3227-find-missing-and-repeated-values) |
+| [3324-split-the-array](https://github.com/Abhishekborad001/DSA_Practice/tree/master/3324-split-the-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/Abhishekborad001/DSA_Practice/tree/master/1813-maximum-erasure-value) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/Abhishekborad001/DSA_Practice/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/Abhishekborad001/DSA_Practice/tree/master/3227-find-missing-and-repeated-values) |
+| [3324-split-the-array](https://github.com/Abhishekborad001/DSA_Practice/tree/master/3324-split-the-array) |
 ## Sorting
 |  |
 | ------- |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0451-sort-characters-by-frequency) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Abhishekborad001/DSA_Practice/tree/master/1510-find-lucky-integer-in-an-array) |
+| [3324-split-the-array](https://github.com/Abhishekborad001/DSA_Practice/tree/master/3324-split-the-array) |
 ## Quickselect
 |  |
 | ------- |
