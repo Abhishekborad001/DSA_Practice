@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0451-sort-characters-by-frequency) |
 | [3396-valid-word](https://github.com/Abhishekborad001/DSA_Practice/tree/master/3396-valid-word) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0451-sort-characters-by-frequency) |
