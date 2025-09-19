@@ -413,4 +413,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0146-lru-cache) |
+## Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
