@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0451-sort-characters-by-frequency) |
+| [0763-special-binary-string](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0763-special-binary-string) |
 | [3396-valid-word](https://github.com/Abhishekborad001/DSA_Practice/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/Abhishekborad001/DSA_Practice/tree/master/3617-find-the-original-typed-string-i) |
 ## Math
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0234-palindrome-linked-list) |
+| [0763-special-binary-string](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0763-special-binary-string) |
 ## Combinatorics
 |  |
 | ------- |
