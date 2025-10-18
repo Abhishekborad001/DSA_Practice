@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0367-valid-perfect-square) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -431,4 +433,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
