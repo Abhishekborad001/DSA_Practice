@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/Abhishekborad001/DSA_Practice/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1813-maximum-erasure-value](https://github.com/Abhishekborad001/DSA_Practice/tree/master/1813-maximum-erasure-value) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Abhishekborad001/DSA_Practice/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2270-number-of-ways-to-split-array](https://github.com/Abhishekborad001/DSA_Practice/tree/master/2270-number-of-ways-to-split-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Abhishekborad001/DSA_Practice/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Abhishekborad001/DSA_Practice/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/Abhishekborad001/DSA_Practice/tree/master/2656-count-the-number-of-beautiful-subarrays) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Abhishekborad001/DSA_Practice/tree/master/0560-subarray-sum-equals-k) |
+| [2270-number-of-ways-to-split-array](https://github.com/Abhishekborad001/DSA_Practice/tree/master/2270-number-of-ways-to-split-array) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/Abhishekborad001/DSA_Practice/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 ## Simulation
 |  |
